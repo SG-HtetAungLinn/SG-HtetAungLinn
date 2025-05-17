@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Htet Aung Linn</h1>
-<h3 align="left">i'm Junior Web Developer</h3>
+<h3 align="left">i'm Web Developer</h3>
 
 - 🌱 I’m currently learning **React JS** 
 - 👨‍💻 All of my projects are available at[Repositories](https://github.com/HtetAungLinn443?tab=repositories) 
 - 💬 Ask me about **Laravel, JavaScript(JQuery) and Vue.js** 
 - 📫 How to reach me **htetaunglinn443@gmail.com**
-- [My Portfolit](https://htetaunglinn443.github.io/My-Portfolio) 
+- [My Portfolio](https://hal-three.vercel.app) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/htet-aung-linn-2778b525a" target="blank"><img align="center"
@@ -36,5 +36,5 @@ alt="illustrator" width="40" height="40" /></a></td></tr></tbody></table></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtetAungLinn443&show_icons=true&theme=tokyonight)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=htetaunglinn443&label=Profile%20views&color=0e75b6&style=flat"
-alt="htetaunglinn443" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=SG-HtetAungLinn&label=Profile%20views&color=0e75b6&style=flat"
+alt="SG-HtetAungLinn" /></p>
