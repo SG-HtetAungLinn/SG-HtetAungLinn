@@ -10,8 +10,8 @@
 <p align="left">
     <a href="https://linkedin.com/in/htet-aung-linn-2778b525a" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="htet-aung-linn-2778b525a" height="30" width="40" /></a><a href="https://fb.com/htetaunglinn443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-alt="htetaunglinn443" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCdTJop6Xtjy9EG9f1DX7-lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+alt="htet-aung-linn-2778b525a" height="30" width="40" /></a><a href="https://www.facebook.com/HtetAungLinnDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+alt="SG-HtetAungLinn" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCdTJop6Xtjy9EG9f1DX7-lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 alt="ucdtjop6xtjy9eg9f1dx7-lw" height="30" width="40" /></a><a href="https://discord.gg/https://discord.gg/XfAyWyMEp6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
 alt="https://discord.gg/XfAyWyMEp6" height="30" width="40" /></a>
 </p>
@@ -34,7 +34,7 @@ height="40" /></a></td><td><a href="https://www.photoshop.com/en" target="_blank
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
 alt="illustrator" width="40" height="40" /></a></td></tr></tbody></table></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtetAungLinn443&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SG-HtetAungLinn&show_icons=true&theme=tokyonight)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=SG-HtetAungLinn&label=Profile%20views&color=0e75b6&style=flat"
 alt="SG-HtetAungLinn" /></p>
